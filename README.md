@@ -1,6 +1,7 @@
 ### Olá, eu sou Guilherme Divino!
-![GuilhermeDivino GitHub stats!](https://github-readme-stats.vercel.app/api?username=GuilhermeDivino&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDivino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Atualmente cursando Ciência da Computação pela Uninove
+
+![GuilhermeDivino GitHub stats!](https://github-readme-stats.vercel.app/api?username=GuilhermeDivino&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDivino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens de Foco:
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
